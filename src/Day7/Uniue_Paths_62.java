@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Uniue_Paths_62 {
     public static void main(String[] args) {
-        int m = 80, n = 7;
+        int m = 99, n = 99;
         System.out.println(uniquePaths(m, n));
     }
     public static int uniquePaths(int m, int n) {
